@@ -91,6 +91,8 @@ Excel formulas used:
 
 ## BikeStores Analysis (Cr. Work The Data)
 
+The visualization of this project is in Tableau Public: https://public.tableau.com/app/profile/pimmada.adirektrakarn/viz/BicycleStores_17096220298240/Dashboard1
+
 The dataset revolves around sales data from a theoretical bicycle retail company.
 
 It includes fields such as order ID, customer details, order date, sales volume, revenue, product details, store name, and sales representative information.
